@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nest-com
+👋 Hi, I’m @nest-com, predoctoral researcher at IIT, Spain. 
 
 ### :fire: My Stats :
 
